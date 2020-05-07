@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/huzhao37/rpcx/server"
 	metrics "github.com/rcrowley/go-metrics"
-	"github.com/smallnest/rpcx/server"
 )
 
 func TestZookeeperRegistry(t *testing.T) {

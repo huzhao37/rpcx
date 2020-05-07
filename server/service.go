@@ -11,8 +11,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	rerrors "github.com/smallnest/rpcx/errors"
-	"github.com/smallnest/rpcx/log"
+	rerrors "github.com/huzhao37/rpcx/errors"
+	"github.com/huzhao37/rpcx/log"
 )
 
 // Precompute the reflect type for error. Can't use error directly

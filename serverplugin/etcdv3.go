@@ -12,9 +12,9 @@ import (
 
 	"github.com/docker/libkv"
 	"github.com/docker/libkv/store"
+	"github.com/huzhao37/rpcx/log"
 	metrics "github.com/rcrowley/go-metrics"
 	etcd "github.com/smallnest/libkv-etcdv3-store"
-	"github.com/smallnest/rpcx/log"
 )
 
 func init() {

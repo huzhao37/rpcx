@@ -7,7 +7,7 @@ import (
 
 	"github.com/abronan/valkeyrie"
 	"github.com/abronan/valkeyrie/store"
-	"github.com/smallnest/rpcx/log"
+	"github.com/huzhao37/rpcx/log"
 	"github.com/smallnest/valkeyrie/store/redis"
 )
 
